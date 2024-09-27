@@ -1,0 +1,12 @@
+Source: ros-jazzy-turtlebot4-gz-toolbox
+Section: misc
+Priority: optional
+Maintainer: rkreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-rclcpp, ros-jazzy-rclcpp-action, ros-jazzy-rcutils, ros-jazzy-ros-gz-interfaces, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-turtlebot4-msgs, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-turtlebot4-gz-toolbox
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-rclcpp, ros-jazzy-rclcpp-action, ros-jazzy-rcutils, ros-jazzy-ros-gz-interfaces, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-turtlebot4-msgs, ros-jazzy-ros-workspace
+Description: Turtlebot4 Gazebo Toolbox
