@@ -1,0 +1,32 @@
+ros-humble-turtlebot4-simulator (1.0.2-3bookworm) bookworm; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Sun, 14 Apr 2024 16:00:00 -0000
+
+ros-humble-turtlebot4-simulator (1.0.1-3bookworm) bookworm; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 07 Nov 2023 16:00:00 -0000
+
+ros-humble-turtlebot4-simulator (1.0.0-3bookworm) bookworm; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Mon, 15 May 2023 16:00:00 -0000
+
+ros-humble-turtlebot4-simulator (0.1.1-3bookworm) bookworm; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Sun, 08 May 2022 16:00:00 -0000
+
+ros-humble-turtlebot4-simulator (0.1.0-3bookworm) bookworm; urgency=high
+
+  * First Galactic release
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 03 May 2022 16:00:00 -0000
+
+
