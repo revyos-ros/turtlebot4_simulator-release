@@ -1,0 +1,47 @@
+ros-humble-turtlebot4-ignition-bringup (1.0.2-3bookworm) bookworm; urgency=high
+
+  * Update deprecated links (#70 <https://github.com/turtlebot/turtlebot4_simulator/issues/70>)
+    * Update deprecated links
+    * Commented out models that are currently broken on the fuel server
+  * Contributors: Hilary Luo
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Sun, 14 Apr 2024 16:00:00 -0000
+
+ros-humble-turtlebot4-ignition-bringup (1.0.1-3bookworm) bookworm; urgency=high
+
+  * Merge pull request <https://github.com/turtlebot/turtlebot4_simulator/issues/57>
+  * Merge pull request <https://github.com/turtlebot/turtlebot4_simulator/issues/58>
+  * Remove outdated world
+  * Don't push namespace to nav, it is handled in the nav launch files
+  * Contributors: Hilary Luo
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 07 Nov 2023 16:00:00 -0000
+
+ros-humble-turtlebot4-ignition-bringup (1.0.0-3bookworm) bookworm; urgency=high
+
+  * Multiple robot support
+  * Spawn robot slightly lower to reduce the drop and rollback, ensuring the robot starts properly docked
+  * Add default model type for HMI plugin
+  * Make warehouse the default world
+  * Fixed model spawning in wall, improved visuals and made locations less ambiguous for slam
+  * Fixed world name and set max step size for better performance
+  * Added namespace support
+  * Contributors: Hilary Luo, Roni Kreinin, roni-kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Mon, 15 May 2023 16:00:00 -0000
+
+ros-humble-turtlebot4-ignition-bringup (0.1.1-3bookworm) bookworm; urgency=high
+
+  * Added irobot_create_nodes dependency
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Sun, 08 May 2022 16:00:00 -0000
+
+ros-humble-turtlebot4-ignition-bringup (0.1.0-3bookworm) bookworm; urgency=high
+
+  * First Galactic release
+  * Contributors: Katherine Scott, Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 03 May 2022 16:00:00 -0000
+
+
